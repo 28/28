@@ -3,7 +3,7 @@ Software engineer&nbsp;&nbsp;| Софтверски инжењер
 
 ---
 
-@ IGT as @dejan-josifovic-igt-com
+@ IGT as [dejan-josifovic-igt-com](https://github.com/dejan-josifovic-igt-com)
 
 ---
 
