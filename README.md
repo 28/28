@@ -1,5 +1,5 @@
-Dejan Josifović&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| Дејан Јосифовић  
-Software engineer&nbsp;&nbsp;| Софтверски инжењер
+Dejan Josifović&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;Дејан Јосифовић  
+Software engineer&nbsp;&nbsp;|&nbsp;&nbsp;Софтверски инжењер
 
 ---
 
