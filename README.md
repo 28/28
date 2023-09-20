@@ -1,4 +1,4 @@
-Dejan Josifović&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;Дејан Јосифовић  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dejan Josifović&nbsp;&nbsp;|&nbsp;&nbsp;Дејан Јосифовић  
 Software engineer&nbsp;&nbsp;|&nbsp;&nbsp;Софтверски инжењер
 
 ---
