@@ -7,5 +7,5 @@ Software engineer&nbsp;&nbsp;|&nbsp;&nbsp;Софтверски инжењер
 
 ---
 
-Gradually migrating to [**sr.ht/~tpt**](https://git.sr.ht/~tpt/)  
+Gradually migrating to [**sr.ht/~tpt**](https://sr.ht/~tpt/)  
 If a repository is missing here, it is already moved to **Sourcehut**.
