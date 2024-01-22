@@ -7,4 +7,4 @@ Software engineer&nbsp;&nbsp;|&nbsp;&nbsp;Софтверски инжењер
 
 ---
 
-Moved to [**sr.ht/~tpt**](https://sr.ht/~tpt/) except for a select few repositories.
+Moved to [**Sourcehut**](https://sr.ht/~tpt/) except for a select few repositories.
